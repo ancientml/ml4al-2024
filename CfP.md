@@ -46,8 +46,8 @@ Topics of interest
 * Digitization: bringing textual sources to a high-quality machine-readable format (e.g., through HTR).
 * Restoration: recovering missing text and reassembling fragmented written artifacts. 
 * Attribution: contextualising a document within its original geographical, chronological and authorial setting.
-* Linguistic analysis: involving linguistic tasks such as semantic analysis, part of speech (POS) tagging, text parsing and segmentation.
-* Textual criticism: the process of reconstructing a text's philological tradition of textual transmission.
+* Linguistic analysis: involving tasks such as POS tagging, text parsing, segmentation, representation learning, semantics, sentiment, language identification.
+* Textual criticism: the process of reconstructing a text's philological tradition of textual transmission, including the tasks of stemmatology and intertextuality.
 * Translation and decipherment: which aim to make a text's language comprehensible and interpretable to modern-day researchers.
 
 ------------------------------
