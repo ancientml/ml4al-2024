@@ -78,7 +78,7 @@ Organizers:
 ------------------------------
 * John Pavlopoulos (Athens University of Economics and Business)
 * Thea Sommerschield (Ca'Foscari)
-* Yannis Assael (DeepMind)
+* Yannis Assael (Google DeepMind)
 * Marco Passarotti  (Università Cattolica del Sacro Cuore of Milan)
 * Rachele Sprugnoli (University of Parma)
 * Yudong Liu (Western Washington Universit)
