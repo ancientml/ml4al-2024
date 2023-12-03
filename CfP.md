@@ -43,7 +43,7 @@ All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”)
 ------------------------
 Topics of interest
 ------------------------
-* Digitization: bringing textual sources to a high-quality machine-readable format (e.g., through OCR and HTR).
+* Digitization: bringing textual sources to a high-quality machine-readable format (e.g., through HTR).
 * Restoration: recovering missing text and reassembling fragmented written artifacts. 
 * Attribution: contextualising a document within its original geographical, chronological and authorial setting.
 * Linguistic analysis: involving linguistic tasks such as semantic analysis, part of speech (POS) tagging, text parsing and segmentation.
