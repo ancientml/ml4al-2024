@@ -462,8 +462,6 @@
       : "fixed",
   });
 
-
-
   // ODOMETER
   $(".odometer").each(function () {
     $(this).html($(this).data('count'));
