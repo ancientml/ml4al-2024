@@ -43,7 +43,7 @@ All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”)
 ------------------------
 Topics of interest
 ------------------------
-* Digitization: bringing textual sources to a high-quality machine-readable format (e.g., through HTR).
+* Digitization: bringing textual sources to a high-quality machine-readable format.
 * Restoration: recovering missing text and reassembling fragmented written artifacts. 
 * Attribution: contextualising a document within its original geographical, chronological and authorial setting.
 * Linguistic analysis: involving tasks such as POS tagging, text parsing, segmentation, representation learning, semantics, sentiment, language identification.
@@ -53,13 +53,13 @@ Topics of interest
 ------------------------------
 Submissions
 ------------------------------
-We encourage submissions which tackle low-underrepresented and non-Westerncentric ancient languages.
+We particularly encourage submissions which tackle low-data, underrepresented, non-Western ancient languages.
 We will use OpenReview and we welcome ARR submissions. 
 
 ------------------------------
 Diversity and Inclusion Statement
 ------------------------------
-We welcome submissions from researchers and practitioners from diverse backgrounds, and we seek contributions from individuals working on ancient languages, irrespective of their gender, ethnicity, nationality, or academic affiliations.
+We welcome submissions from researchers and practitioners from diverse backgrounds, and seek contributions from individuals working in the field of Machine Learning for ancient languages, irrespective of their gender, ethnicity, nationality, or academic affiliations.
 
 ------------------------------
 Invited Speakers
@@ -77,11 +77,11 @@ Website: https://www.ml4al.com
 Organizers:
 ------------------------------
 * John Pavlopoulos (Athens University of Economics and Business)
-* Thea Sommerschield (Ca'Foscari)
+* Thea Sommerschield (University of Nottingham)
 * Yannis Assael (Google DeepMind)
+* Shai Gordin (Ariel University)
 * Marco Passarotti  (Università Cattolica del Sacro Cuore of Milan)
 * Rachele Sprugnoli (University of Parma)
 * Yudong Liu (Western Washington Universit)
 * Bin Li ( Nanjing Normal University)
-* Shai Gordin (Ariel University)
 * Adam Anderson (UC Berkeley)
