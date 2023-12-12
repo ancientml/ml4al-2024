@@ -9,7 +9,7 @@
 - Contact: ML4AL 2024 Organizers
 - Website: https://ml4al.com
 - Submission Deadline: Monday, 24 April 2024
-- The 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024) will be co-located with ACL 2024 and will be held hybrid on August 15, 2024.
+- The 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024) will be co-located with ACL 2024 and will be held in a hybrid format on August 15, 2024.
 
 ------------------------
 Topic and Content
