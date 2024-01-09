@@ -64,8 +64,8 @@ We welcome submissions from researchers and practitioners from diverse backgroun
 ------------------------------
 Invited Speakers
 ------------------------------
-Barbara McGillivray (King's College, UK)
-Kyunghyun Cho (NYU, USA)
+* Barbara McGillivray (King's College, UK)
+* Kyunghyun Cho (NYU, USA)
 
 ------------------------------
 Contact
