@@ -424,44 +424,44 @@
 
 
   // LOCOMOTIVE
-  const locoScroll = new LocomotiveScroll({
-    el: document.querySelector(".smooth-scroll"),
-    smooth: true,
-    class: 'is-inview',
-    getSpeed: true,
-    getDirection: true,
-    smartphone: {
-      smooth: true,
-    },
-    tablet: {
-      smooth: true,
-    },
-  });
+  // const locoScroll = new LocomotiveScroll({
+  //   el: document.querySelector(".smooth-scroll"),
+  //   smooth: true,
+  //   class: 'is-inview',
+  //   getSpeed: true,
+  //   getDirection: true,
+  //   smartphone: {
+  //     smooth: false,
+  //   },
+  //   tablet: {
+  //     smooth: false,
+  //   },
+  // });
 
-  locoScroll.on("scroll", () => {
-    ScrollTrigger.update();
-  });
+  // locoScroll.on("scroll", () => {
+  //   ScrollTrigger.update();
+  // });
 
-  locoScroll.on("scroll", ScrollTrigger.update);
+  // locoScroll.on("scroll", ScrollTrigger.update);
 
-  ScrollTrigger.scrollerProxy(".smooth-scroll", {
-    scrollTop(value) {
-      return arguments.length
-        ? locoScroll.scrollTo(value, 0, 0)
-        : locoScroll.scroll.instance.scroll.y;
-    },
-    getBoundingClientRect() {
-      return {
-        top: 0,
-        left: 0,
-        width: window.innerWidth,
-        height: window.innerHeight,
-      };
-    },
-    pinType: document.querySelector(".smooth-scroll").style.transform
-      ? "transform"
-      : "fixed",
-  });
+  // ScrollTrigger.scrollerProxy(".smooth-scroll", {
+  //   scrollTop(value) {
+  //     return arguments.length
+  //       ? locoScroll.scrollTo(value, 0, 0)
+  //       : locoScroll.scroll.instance.scroll.y;
+  //   },
+  //   getBoundingClientRect() {
+  //     return {
+  //       top: 0,
+  //       left: 0,
+  //       width: window.innerWidth,
+  //       height: window.innerHeight,
+  //     };
+  //   },
+  //   pinType: document.querySelector(".smooth-scroll").style.transform
+  //     ? "transform"
+  //     : "fixed",
+  // });
 
   // ODOMETER
   $(".odometer").each(function () {
