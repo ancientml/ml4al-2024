@@ -25,11 +25,13 @@ We welcome long (8 page) and short (4 page) paper submissions on topics related 
 * Textual criticism: the process of reconstructing a text's philological tradition of textual transmission, including the tasks of stemmatology and intertextuality.
 * Translation and decipherment: which aim to make a text's language comprehensible and interpretable to modern-day researchers.
 
+We particularly welcome submissions which tackle low-data, underrepresented, non-Western ancient languages.
+
 We encourage researchers and practitioners from diverse backgrounds, working on ancient languages, irrespective of their gender, ethnicity, nationality, or academic affiliations, including fellows tackling low-underrepresented and non-Westerncentric ancient languages.
 
 ## Instructions
 We welcome long (8 page) and short (4 page) paper submissions, in PDF format, made through OpenReview or ARR.
-Regular workshop papers, which are accepted, will be included in the workshop proceedings, but non-archival submissions are also welcome. 
+Accepted regular workshop papers will be included in the workshop proceedings, but non-archival submissions are also welcome. 
 
 * Regular workshop papers: Both long (8 pages) and short (4 pages) papers may have unlimited pages for references and up to 100 MB of supplementary materials (separately). Authors are strongly encouraged to submit their code for reproducibility. In the camera-ready version, one additional page of content will be given to address the comments received by the reviewers. All submissions should be completely anonymous to allow a double-blind review process and the papers should follow the [ACL template style](https://github.com/acl-org/acl-style-files). Each paper is expected to be reviewed by at least three reviewers. Selected accepted papers will be presented orally and the rest as posters.
 
