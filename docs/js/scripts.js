@@ -431,10 +431,10 @@
     getSpeed: true,
     getDirection: true,
     smartphone: {
-      smooth: false,
+      smooth: true,
     },
     tablet: {
-      smooth: false,
+      smooth: true,
     },
   });
 
