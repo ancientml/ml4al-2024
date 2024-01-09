@@ -64,13 +64,13 @@ We welcome submissions from researchers and practitioners from diverse backgroun
 ------------------------------
 Invited Speakers
 ------------------------------
-Barbara McGillivray (King's College, UK)
+Barbara McGillivray (King's College, UK)\
 TBC
 
 ------------------------------
 Contact
 ------------------------------
-Email: organizers [at] ml4al.com
+Email: organizers [at] ml4al.com\
 Website: https://www.ml4al.com
 
 ------------------------------
