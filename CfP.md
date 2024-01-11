@@ -33,10 +33,9 @@ ML4AL is tailored to tackle four substantial targets:
 ------------------------------
 Important Dates
 ------------------------------
-- Direct paper submission deadline: April 24, 2024
-- Notification of acceptance: May 29, 2024
-- Camera-ready paper due: June 5, 2024
-- Pre-recorded video due: June 12, 2024
+- Direct paper submission deadline: May 17, 2024
+- Notification of acceptance: June 17, 2024
+- Camera-ready paper due: July 1, 2024
 - Workshop: August 15, 2024
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”)
 
