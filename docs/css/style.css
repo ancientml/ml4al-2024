@@ -1362,7 +1362,7 @@ button[type="submit"] i {
 .content-section {
   width: 100%;
   display: block;
-  padding: 120px 0;
+  padding: 60px 0;
   position: relative;
   background-size: cover !important;
   background-position: center !important;
@@ -1824,7 +1824,7 @@ button[type="submit"] i {
   width: 100%;
   display: block;
   padding: 0;
-  margin-bottom: 20px;
+/*  margin-bottom: 20px;*/
   list-style: none;
 }
 .side-list ul li:before {
