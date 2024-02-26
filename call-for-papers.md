@@ -1,5 +1,6 @@
 The 1st Workshop on Machine Learning for Ancient Languages (ML4AL 2024) is co-located at ACL 2024 and will take place in a hybrid format in Bangkok, Thailand and remotely, on 15 August 2024.
 The ML4AL workshop aims to inspire collaboration and support research momentum in the emerging field of Machine Learning for the study of ancient texts. Additional details can be found at https://www.ml4al.com.
+Direct paper submission deadline: April 24, 2024
 
 # The scope
 Ancient languages preserve the cultures and histories of the past. 
