@@ -40,9 +40,9 @@ Accepted regular workshop papers will be included in the workshop proceedings, b
 * Non-archival submissions: Papers on relevant topics that have appeared or might appear in other venues (workshops, conferences, journals) are also welcome, which can be presented at the workshop but will not be included in the workshop proceedings. 
 
 # Important Dates (Tentative)
-* Direct paper submission deadline: April 24, 2024
-* Notification of acceptance: May 29, 2024
-* Camera-ready paper due: June 5, 2024
-* Pre-recorded video due: June 12, 2024
+* Direct paper submission deadline: May 17, 2024
+* Notification of acceptance: June 17, 2024
+* Camera-ready paper due: July 1, 2024
+* Pre-recorded video due: TBD
 * Workshop: August 15, 2024
 All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”)
