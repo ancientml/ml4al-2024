@@ -1,2 +1,2 @@
 # ML4AL
-The Machine Learning for Ancient Languages (ML4AL) ACL Workshop
+The 1st Machine Learning for Ancient Languages (ML4AL) ACL Workshop
