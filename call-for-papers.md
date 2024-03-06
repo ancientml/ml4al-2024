@@ -75,10 +75,9 @@ low-underrepresented and non-Western centric ancient languages.
 **SUBMISSION INFORMATION**
 
 We welcome long (8 page) and short (4 page) paper submissions, 
-submitted directly through [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ML4AL) or via ARR. 
-Accepted regular workshop papers
-will be included in the workshop proceedings, but non-archival
-submissions are also welcome:
+submitted directly through OpenReview or via ARR Commitment. 
+Accepted regular workshop papers will be included in the workshop 
+proceedings, but non-archival submissions are also welcome:
 
 **Regular workshop papers**: Both long (8 pages) and short (4 pages)
 papers may have unlimited pages for references and up to 100 MB of
@@ -108,6 +107,10 @@ anonymous (please avoid self-references) and must include a dedicated
 Supplementary material (e.g., code, data, audio/visual material, etc.)
 is suggested to be uploaded on a repository, anonymously, and linked to
 the paper.
+
+To submit directly your work, use [this OpenReview venue](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ML4AL) and *do not commit* any ARR submission. 
+To commit your ARR paper, use [this ARR Commitment venue](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/ML4AL_ARR_Commitment) and *do not submit* your work directly.
+Please note also that new OpenReview profiles created without an institutional email will go through a moderation process that can take up to two weeks while new profiles created with an institutional email will be activated *automatically*.
 
 ---
 
