@@ -101,7 +101,7 @@ Masayuki Asahara; John Bodel; Gregory Crane; Katrien De Graef; Sanhong Deng; Mar
 The Vesuvius Challenge (https://scrollprize.org/)
 
 **STRATEGIC SUPPORT:**
-The National Centre for Scientific Research "Demokritos" (https://www.demokritos.gr/)
+ARCHIMEDES Unit - Research on artificial intelligence, data science and algorithms (https://www.athenarc.gr/en/archimedes)
 
 **LOCAL FACILITATORS:**
 The Siam Society under Royal Patronage (https://thesiamsociety.org/)
