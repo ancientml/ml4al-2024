@@ -97,13 +97,13 @@ All deadlines are 11:59 pm UTC -12h ("anywhere on Earth")
 
 Masayuki Asahara; John Bodel; Gregory Crane; Katrien De Graef; Sanhong Deng; Mark Depauw; Hanne Eckhoff; Margherita Fantoli; Minxuan Feng; Ethan Fetaya; Federica Gamba; Laura Hawkins; Chul Heo; Petra Heřmánková; Marietta Horster; Renfen Hu; Kyle Johnson; Alek Keersmaekers; Ussen Kimanuka; Thomas Koentges; Els Lefever; Chaya Liebeskind; Eliese-Sophia Lincke; Chao-Lin Liu; Liu Liu; Congjun Long; Jiaming Luo; Massimo Maiocchi; Isabelle Marthot-Santaniello; Barbara McGillivray; M. Willis Monroe; Alex Mullen; Chiara Palladino; Chanjun Park, Upstage; Edoardo M. Ponti; Mladen Popovic; Jonathan Prag; Avital Romach; Edgar Roman-Rangel; Matteo Romanello; Brent Seales; Andrew Senior; Si Shen; Barak Sober; Richard Sproat; Gabriel Stanovsky; Vanessa Stefanak; Silvia Stopponi; Qi Su; Matthew I. Swindall; Xuri Tang; Charlotte Tupman; Dongbo Wang; Haneul Yoo; Chongsheng Zhang.
 
-**SPONSORS**
+**SPONSORS:**
 The Vesuvius Challenge (https://scrollprize.org/)
 
-**COLLABORATORS**
+**STRATEGIC SUPPORT:**
 The National Centre for Scientific Research "Demokritos" (https://www.demokritos.gr/)
 
-**LOCAL FACILITATORS**
+**LOCAL FACILITATORS:**
 The Siam Society under Royal Patronage (https://thesiamsociety.org/)
 
 
