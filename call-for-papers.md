@@ -100,10 +100,5 @@ Masayuki Asahara; John Bodel; Gregory Crane; Katrien De Graef; Sanhong Deng; Mar
 **SPONSORS:**
 The Vesuvius Challenge (https://scrollprize.org/)
 
-**STRATEGIC SUPPORT:**
+**SUPPORTING ORGANISATIONS:**
 ARCHIMEDES Unit - Research on artificial intelligence, data science and algorithms (https://www.athenarc.gr/en/archimedes)
-
-**LOCAL FACILITATORS:**
-The Siam Society under Royal Patronage (https://thesiamsociety.org/)
-
-
