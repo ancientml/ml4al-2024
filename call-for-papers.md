@@ -1,4 +1,4 @@
-# 1st Call for Papers
+# Call for Papers
 
 The 1st Workshop on Machine Learning for Ancient Languages ([ML4AL
 2024](http://ml4al.com))
