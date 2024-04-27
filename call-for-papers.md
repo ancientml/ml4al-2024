@@ -32,6 +32,7 @@ We welcome contributions on topics related to, but not limited to:
 -   Translation and decipherment: which aim to make a text's language comprehensible and interpretable to modern-day researchers.
 
 We particularly welcome submissions which tackle low-data, underrepresented, non-Western ancient languages, and we encourage researchers and practitioners from diverse backgrounds, working on ancient languages, irrespective of their gender, ethnicity, nationality, or academic affiliations, including fellows tackling low-underrepresented and non-Western centric ancient languages.
+Additionally, we also invite dataset publications to further enrich our understanding of these languages and their contexts. 
 
 ---
 
