@@ -7,7 +7,7 @@ Bangkok, Thailand
 
 Thursday, August 15 2024 (co-located with ACL 2024)
 
-Submission deadline: <b>EXTENDED DEADLINE</b>May 24th, 2024, 11:59pm, UTC-12 (anywhere on Earth) <s>May 17th, 2024 11:59pm, UTC-12</s>
+Submission deadline: <b>EXTENDED DEADLINE</b> May 24th, 2024, 11:59pm, UTC-12 (anywhere on Earth) <s>May 17th, 2024 11:59pm, UTC-12</s>
 
 ---
 
