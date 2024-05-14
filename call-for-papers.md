@@ -83,11 +83,11 @@ Contact the organizers at: [ml4al.organizers@gmail.com](mailto:ml4al.organizers@
 
 **IMPORTANT DATES**
 
--   Paper submission deadline: May 17, 2024
+-   Paper submission deadline: <b>24 May 2024</b> <s>May 17, 2024</s>
 
--   Notification of acceptance: June 17, 2024
+-   Notification of acceptance: 21 June 2024 <s>June 17, 2024</s>
 
--   Camera-ready paper due: July 1, 2024
+-   Camera-ready paper due: 5 July 2024 <s>July 1, 2024</s>
 
 -   Workshop: August 15, 2024
 
